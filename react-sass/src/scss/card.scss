@@ -1,0 +1,58 @@
+.card img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 20px;
+
+
+}
+.card p{
+    width: 200px;
+    margin: auto;
+    text-align: justify;
+    margin-bottom: 20px;
+
+    
+}
+.card button{
+    width: 50px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  padding: 0.5rem;
+  border: none;
+  cursor: pointer;
+  
+}
+.card button.large{
+    width: 100px;
+}
+
+.small{
+    background-color: gray;
+    color: white;
+    
+    
+  }
+ .large{
+    background-color: darksalmon;
+    color: white;
+   
+ } 
+ .card{
+    width: 20%;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+ .card h2{
+color: red;
+ }
+ .card h3{
+color: green;
+margin-bottom: 20px;
+ }
